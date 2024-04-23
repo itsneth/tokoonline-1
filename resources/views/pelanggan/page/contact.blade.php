@@ -31,7 +31,7 @@
             <p class="m-0 fs-5"> +500 Seller</p>
         </div>
         <div class="d-flex align-items-center gap-4">
-            <i class="fas fa-shirt fa-2x"></i>
+            <i class="fa-solid fa-cookie-bite"></i>
             <p class="m-0 fs-5">+ 300 Product</p>
         </div>
     </div>
