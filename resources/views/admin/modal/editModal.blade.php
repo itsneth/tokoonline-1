@@ -29,9 +29,9 @@
                         <div class="col-sm-7">
                             <select type="text" class="form-control" id="type" name="type">
                                 <option value=""> Pilih Type </option>
-                                <option value="celana" {{ $data->type === 'celana' ? 'selected' : '' }}>Celana</option>
-                                <option value="baju" {{ $data->type === 'baju' ? 'selected' : '' }}>Baju</option>
-                                <option value="aksesoris" {{ $data->type === 'aksesoris' ? 'selected' : '' }}>Aksesoris
+                                <option value="celana" {{ $data->type === 'celana' ? 'selected' : '' }}>donat</option>
+                                <option value="baju" {{ $data->type === 'baju' ? 'selected' : '' }}>kue asin</option>
+                                <option value="aksesoris" {{ $data->type === 'aksesoris' ? 'selected' : '' }}>paketan
                                 </option>
                             </select>
                         </div>
