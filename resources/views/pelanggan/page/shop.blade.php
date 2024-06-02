@@ -19,51 +19,12 @@
                             </h2>
                             <div id="flush-collapseOne" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                
                                 <div class="accordion-body">
                                     <div class="d-flex flex-column gap-4">
                                         <div class="d-flex flex-row gap-3">
-                                            <input type="checkbox" name="kategory" class="kategory" value="celana Pria">
-                                            <span>donat coklat</span>
-                                        </div>
-                                        <div class="d-flex flex-row gap-3">
-                                            <input type="checkbox" name="kategory" class="kategory" value="baju Pria">
-                                            <span>donat pink</span>
-                                        </div>
-                                        <div class="d-flex flex-row gap-3">
-                                            <input type="checkbox" name="kategory" class="kategory" value="aksesoris Pria">
-                                            <span>donat krisna</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="flush-headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#flush-collapseTwo" aria-expanded="false"
-                                    aria-controls="flush-collapseTwo">
-                                    asin
-                                </button>
-                            </h2>
-                            <div id="flush-collapseTwo" class="accordion-collapse collapse"
-                                aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                                <div class="accordion-body p-0">
-                                    <div class="accordion-body">
-                                        <div class="d-flex flex-column gap-4">
-                                            <div class="d-flex flex-row gap-3">
-                                                <input type="checkbox" name="kategory" class="kategory"
-                                                    value="celana Wanita">
-                                                <span>jalangkote</span>
-                                            </div>
-                                            <div class="d-flex flex-row gap-3">
-                                                <input type="checkbox" name="kategory" class="kategory" value="baju Wanita">
-                                                <span>panada</span>
-                                            </div>
-                                            <div class="d-flex flex-row gap-3">
-                                                <input type="checkbox" name="kategory" class="kategory"
-                                                    value="aksesoris Wanita">
-                                                <span>martabak</span>
-                                            </div>
+                                            <input type="checkbox" name="kategory" class="kategory" value="donat">
+                                            <span>donat</span>
                                         </div>
                                     </div>
                                 </div>
@@ -74,7 +35,7 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseThree" aria-expanded="false"
                                     aria-controls="flush-collapseThree">
-                                    paket
+                                    paket 25k
                                 </button>
                             </h2>
                             <div id="flush-collapseThree" class="accordion-collapse collapse"
@@ -84,18 +45,13 @@
                                         <div class="d-flex flex-column gap-4">
                                             <div class="d-flex flex-row gap-3">
                                                 <input type="checkbox" name="kategory" class="kategory"
-                                                    value="celana anak-anak">
-                                                <span>paket a</span>
+                                                    value="besar">
+                                                <span>donat besar 6pcs </span>
                                             </div>
                                             <div class="d-flex flex-row gap-3">
                                                 <input type="checkbox" name="kategory" class="kategory"
-                                                    value="baju anak-anak">
-                                                <span>paket b</span>
-                                            </div>
-                                            <div class="d-flex flex-row gap-3">
-                                                <input type="checkbox" name="kategory" class="kategory"
-                                                    value="aksesoris anak-anak">
-                                                <span>paket c</span>
+                                                    value="kecil">
+                                                <span>donat kecil 12pcs</span>
                                             </div>
                                         </div>
                                     </div>

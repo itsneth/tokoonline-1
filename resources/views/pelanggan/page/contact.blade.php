@@ -1,23 +1,17 @@
-@extends('pelanggan.layout.index')
 
-@section('content')
+
     <div class="row mt-4 align-items-center">
         <div class="col-md-6">
             <div class="content-text">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi delectus neque, quasi soluta non
-                illum, similique quisquam nostrum iusto magni aspernatur esse. Ipsa cupiditate vitae est iusto labore culpa
-                magnam fugit minima. Voluptate ipsam ad, neque voluptas ducimus perspiciatis praesentium natus iure delectus
-                eaque officia dolores iste asperiores assumenda aliquam dignissimos! Ex odit accusantium ad quaerat, omnis
-                atque
-                minus velit dicta sapiente quam vel, temporibus eligendi! Nobis, molestiae hic praesentium reiciendis
-                exercitationem in debitis quisquam. Totam dolores veritatis reprehenderit et voluptates iure, alias quam
-                consequatur in cumque saepe eius, aperiam repellat temporibus aut? Nobis quam sunt fuga perspiciatis nemo
-                reprehenderit similique tempora dolore, beatae fugiat, obcaecati expedita possimus. Quae fugit tempore,
-                obcaecati excepturi unde laudantium eveniet ratione natus. Distinctio.
+                Maruddani Donuts telah menjadi salah satu pilihan yang disukai di Makassar sejak tahun 2020. 
+                Dengan harga yang terjangkau, mereka menawarkan berbagai varian donat yang lezat. 
+                Keistimewaan dari donat Maruddani adalah variasi rasa yang beragam dan bentuknya yang unik. P
+                elayanan yang ramah dan partisipasi dalam kegiatan sosial juga membuatnya menjadi bagian yang dihargai dalam komunitas lokal. 
+                Dengan kualitas produk yang baik dan fokus pada kepuasan pelanggan, Maruddani Donuts terus menjadi salah satu toko donat terkemuka di Makassar.
             </div>
         </div>
         <div class="col-md-6">
-            <img src="{{ asset('assets/images/office-2.png') }}" style="width:100%" alt="">
+            <img src="{{ asset('assets/Logok1.png') }}" style="width:100%" alt="">
         </div>
     </div>
 
@@ -44,10 +38,10 @@
         </div>
         <div class="col-md-7">
             <div class="card">
-                <div class="card-header text-center">
+                <div class="card-header text-center text-center p-lg-4 mt-3">
                     <h4>Kritik dan saran</h4>
                 </div>
-                <div class="card-body">
+                <div class="card-body text-center p-lg-4 mt-3" style="background: linear-gradient(to right, #75C9FF, #FE97CF);">
                     <p class="p-0 mb-5 text-lg-center">Masukan kritik dan saran anda kepada aplikasi kami ini agar kami dapat memberikan
                         apa yang menjadi kebutuhan anda dan kami dapat berkembang lebih baik lagi.
                     </p>
@@ -69,4 +63,3 @@
             </div>
         </div>
     </div>
-@endsection

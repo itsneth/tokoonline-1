@@ -19,7 +19,7 @@ class TransaksiController extends Controller
     public function index()
     {
         $best = product::where('quantity_out','>=',5)->get();
-        $data = product::paginate(15);
+        $data = product::paginate(3);
         $countKeranjang = tblCart::where(['idUser' => 'guest123', 'status' => 0])->count();
         return view('pelanggan.page.home', [
             'title'     => 'Home',

@@ -27,9 +27,9 @@
                         <div class="col-sm-7">
                             <select type="text" class="form-control" id="type" name="type">
                                 <option value=""> Pilih Type </option>
-                                <option value="celana">donat</option>
-                                <option value="baju">kue asin</option>
-                                <option value="aksesoris">paketan</option>
+                                <option value="donat">donat</option>
+                                <option value="besar">donat besar 6pcs</option>
+                                <option value="kecil">donat kecil 12pcs</option>
                             </select>
                         </div>
                     </div>
@@ -38,9 +38,8 @@
                         <div class="col-sm-7">
                             <select type="text" class="form-control" id="kategori" name="kategori">
                                 <option value=""> Pilih Kategori </option>
-                                <option value="Pria">manis</option>
-                                <option value="Wanita">asin</option>
-                                <option value="Anak-anak">paket</option>
+                                <option value="manis">manis</option>
+                                <option value="paket">paket</option>
                             </select>
                         </div>
                     </div>
