@@ -29,6 +29,7 @@
         <header class="w-full">
             @include('pelanggan.component.navbar')
         </header>
+        @include('pelanggan.page.pageata')
         <section class="container">
             <div>
                 @yield('content')

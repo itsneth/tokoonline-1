@@ -18,6 +18,24 @@ main {
     color: white;
 } */
 
+@keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+.header {
+    background-color: #FFC2D9;
+}
+
+.img-right {
+    width: 50%; /* reduce the image size to 80% of its original size */
+    margin-left: 650px; /* move the image to the right */
+    margin-bottom: 10px;
+  }
 .text-links {
     cursor: pointer;
 }
@@ -72,6 +90,13 @@ main {
 
 section {
     min-height: 80vh;
+}
+
+.pagePink{
+    width: 100%;  
+    background: linear-gradient(to bottom, #FFC2D9, #FF99BE);;
+
+
 }
 
 /* style footer */

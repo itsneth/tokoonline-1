@@ -1,4 +1,4 @@
-<nav class="navbar navbar-dark navbar-expand-lg" style="background: linear-gradient(180deg, #FFC2D9 0%, #FF99BE 100%); border-radius: 20px; height: 90px;">
+<nav class="navbar navbar-dark navbar-expand-lg" style="background: linear-gradient(180deg, #FFC2D9 0%, #FF99BE 100%); height: 90px;">
     <div class="container-fluid">
         <div class="d-flex align-items-center">
             <img src="assets/images/logoo2.png" alt="Logo" style="width: 100px; height: auto;">

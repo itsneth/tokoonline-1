@@ -1,6 +1,5 @@
 @extends('pelanggan.layout.index')
 <link rel="stylesheet" type="text/css" href="{{ asset('css/styles.css') }}">
-
 @section('content')
     {{-- @if ($best->count() == 0)
         <div class="container"></div>
@@ -28,7 +27,6 @@
             @endforeach
         </div>
     @endif --}}
-    
     <div class="content mt-3 d-flex flex-lg-wrap gap-5 mb-5 new-product-container">
   
         <style>
